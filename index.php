@@ -2,6 +2,7 @@
 <?php require('model/brand.php'); ?>
 <?php require('model/animal.php'); ?>
 <?php include('model/fonctionLuc.php'); ?>
+<?php include('model/prixAuGramme.php'); ?>
 <?php require('model/product.php'); ?>
 
 
