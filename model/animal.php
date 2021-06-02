@@ -1,5 +1,5 @@
 <?php
-$tabAnimaux = array(
+$animals = array(
     "Chien",
     "Chat",
     "Aquariophilie",
