@@ -1,6 +1,6 @@
 <ul>
     <?php
-    foreach ($tabAnimaux as $oneAnimal) :
+    foreach ($animals as $oneAnimal) :
     ?>
         <li><?php echo $oneAnimal; ?></li>
     <?php endforeach; ?>
