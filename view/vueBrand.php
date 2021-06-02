@@ -1,8 +1,3 @@
-<?php
-include("../model/brand.php");
-?>
-
-
 <ul>
     <?php
     foreach ($brand as $listBrand) :
@@ -10,8 +5,6 @@ include("../model/brand.php");
     ?>
         <li><?php echo $listBrand; ?></li>
 
-    <?php
-    endforeach;
-    ?>
-
+    <?php endforeach; ?>
+    <li></li>
 </ul>
