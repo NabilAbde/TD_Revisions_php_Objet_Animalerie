@@ -21,10 +21,6 @@
     <section>
         <?php include("view/vueCategory.php"); ?>
         <?php include("view/vueBrand.php"); ?>
-<<<<<<< HEAD
-    </header>
-=======
     </section>
->>>>>>> b9ab4cb320d5787cdd82ef98848581a8556a6f8c
 </body>
 </html>
