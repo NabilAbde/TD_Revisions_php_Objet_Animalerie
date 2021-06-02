@@ -30,13 +30,13 @@ $Product = array (
            
     array ('Name' => 'Souris', 
            'PriceHT' => 2,
-           'Quantity' => 1,
+           'Quantity' => 146,
            'Category' => $Category[0],
            'Animals' => $animals[5]),
 
     array ('Name' => 'Cage', 
            'PriceHT' => 150,
-           'Quantity' => 1,
+           'Quantity' => 125,
            'Category' => $Category[6],
            'Animals' => $animals[3]),
            
@@ -48,61 +48,61 @@ $Product = array (
 
     array ('Name' => 'Harnais', 
            'PriceHT' => 3,
-           'Quantity' => 1,
+           'Quantity' => 756,
            'Category' => $Category[4],
            'Animals' => $animals[4]),
 
     array ('Name' => 'Antiparasitaires', 
            'PriceHT' => 45,
-           'Quantity' => 1 ,
+           'Quantity' => 156,
            'Category' => $Category[3],
            'Animals' => $animals[6]),  
            
     array ('Name' => 'Bout de bois', 
            'PriceHT' => 15,
-           'Quantity' => 1,
+           'Quantity' => 784,
            'Category' => $Category[9],
            'Animals' => $animals[6]),
 
     array('Name' => 'Laisse',
           'PriceHT' => 15,
-          'Quantity' => 1,
+          'Quantity' => 100,
           'Category' => $Category[2],
           'Animals' => $animals[0]),
 
     array ('Name' => 'Arbre à chat', 
           'PriceHT' => 20,
-          'Quantity' => 1,
+          'Quantity' => 635,
           'Category' => $Category[10],
           'Animals' => $animals[0]),
           
    array ('Name' => 'Pince à serpent', 
           'PriceHT' => 50,
-          'Quantity' => 1,
+          'Quantity' => 780,
           'Category' => $Category[2],
           'Animals' => $animals[5]),
        
    array ('Name' => 'Gamelle', 
           'PriceHT' => 10,
-          'Quantity' => 1,
+          'Quantity' => 45,
           'Category' => $Category[4],
           'Animals' => $animals[0]),
           
    array ('Name' => 'Terrarium', 
           'PriceHT' => 100,
-          'Quantity' => 1,
+          'Quantity' => 650,
           'Category' => $Category[1],
           'Animals' => $animals[4]),
 
    array ('Name' => 'Aquarium', 
           'PriceHT' => 80,
-          'Quantity' => 1,
+          'Quantity' => 180,
           'Category' => $Category[10],
           'Animals' => $animals[2]),
           
    array ('Name' => 'Os en plastique', 
           'PriceHT' => 8,
-          'Quantity' => 1,
+          'Quantity' => 10505,
           'Category' => $Category[5],
           'Animals' => $animals[0]),
 
@@ -114,13 +114,13 @@ $Product = array (
 
    array ('Name' => 'Niche', 
           'PriceHT' => 50,
-          'Quantity' => 1,
+          'Quantity' => 1145,
           'Category' => $Category[1],
           'Animals' => $animals[0]),  
           
    array ('Name' => 'Cage de transport', 
           'PriceHT' => 30,
-          'Quantity' => 1,
+          'Quantity' => 136,
           'Category' => $Category[2],
           'Animals' => $animals[1])
 );
