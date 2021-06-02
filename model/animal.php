@@ -8,4 +8,6 @@ $tabAnimaux = array(
     "Reptiles",
     "Autre"
 );
-var_dump($tabAnimaux);
+
+
+
