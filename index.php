@@ -16,10 +16,10 @@
 <body>
     <header>
         <h1>L'Animalerie</h1>
-        <?php include("view/vueCategory.php"); ?>
+        <?php include("view/vueAnimal.php"); ?>
     </header>
     <section>
-        <?php include("view/vueAnimal.php"); ?>
+        <?php include("view/vueCategory.php"); ?>
         <?php include("view/vueBrand.php"); ?>
     </section>
 </body>
