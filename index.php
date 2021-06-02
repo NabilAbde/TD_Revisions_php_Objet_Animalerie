@@ -1,7 +1,8 @@
 <?php require('model/category.php'); ?>
 <?php require('model/brand.php'); ?>
 <?php require('model/animal.php'); ?>
-
+<?php include('model/fonctionLuc.php'); ?>
+<?php require('model/product.php'); ?>
 
 
 <!DOCTYPE html>
@@ -25,6 +26,10 @@
         <?php include("view/vueBrand.php"); ?>
     </section>
 
-    <p><?php include('model/fonctionLuc.php'); ?></p>
+    <section>
+    <?php include("view/vueProduct.php"); ?>
+    </section>
+
+    
 </body>
 </html>
