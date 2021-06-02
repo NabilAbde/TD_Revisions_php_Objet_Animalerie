@@ -6,6 +6,6 @@ $tabAnimaux = array(
     "Oiseaux",
     "Rongeurs",
     "Reptiles",
-    "autre"
+    "Autre"
 );
 var_dump($tabAnimaux);
