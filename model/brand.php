@@ -5,5 +5,10 @@
         'Rosewood',
         'Good boy',
         'Wellness Core',
-        'Acana'
+        'Acana',
+        'Naoty',
+        'Sera',
+        'JBL',
+        'Tyrol',
+        'Supreme'
     ];
