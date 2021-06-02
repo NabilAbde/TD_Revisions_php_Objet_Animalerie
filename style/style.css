@@ -3,7 +3,7 @@ body{
 }
 
 header{
-    background-color: rgb(224, 241, 224);
+    background: linear-gradient(#bfebbb, #9198e500);
 }
 
 h1{
@@ -13,13 +13,23 @@ h1{
     padding: 16px;
 }
 
-ul{
+header ul{
     font-size: 12px;
     display: flex;
     justify-content: center;
 }
 
-li{
+header ul li{
     padding: 8px;
     padding-right: 20px;
+}
+
+section{
+    margin-right: 20% ;
+    margin-left: 20% ;
+    background-color: rgb(233, 241, 232);
+    height: 50em;
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
 }

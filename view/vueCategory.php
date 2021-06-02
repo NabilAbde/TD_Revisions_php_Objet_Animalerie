@@ -4,5 +4,4 @@
        <?php echo $categorie; ?>
     </li>
     <?php endforeach; ?>
-    <li></li>
 </ul>
