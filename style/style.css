@@ -12,3 +12,13 @@ h1{
     margin: 0%;
     padding: 16px;
 }
+
+ul{
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+}
+
+li{
+    padding: 15px;
+}

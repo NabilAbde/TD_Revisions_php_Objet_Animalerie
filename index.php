@@ -1,3 +1,4 @@
+<?php require('model/category.php'); ?>
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -10,10 +11,10 @@
 <body>
     <header>
         <h1>L'Animalerie</h1>
+        <?php include("view/vueCategory.php"); ?>
     </header>
-    
+
     <?php include("view/vueAnimal.php"); ?>
     <?php include("view/vueBrand.php"); ?>
-    <?php include("view/vueCategory.php"); ?>
 </body>
 </html>
