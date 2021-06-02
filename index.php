@@ -19,9 +19,6 @@
         <?php include("view/vueCategory.php"); ?>
         <?php include("view/vueAnimal.php"); ?>
         <?php include("view/vueBrand.php"); ?>
+    </header>
 </body>
-</header>
-
-
-
 </html>
