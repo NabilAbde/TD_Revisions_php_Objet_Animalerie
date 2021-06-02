@@ -1,0 +1,14 @@
+body{
+    margin: 0%;
+}
+
+header{
+    background-color: rgb(224, 241, 224);
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    margin: 0%;
+    padding: 16px;
+}
