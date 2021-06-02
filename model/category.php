@@ -6,5 +6,5 @@
         'hygiène et soin',
         'Gamelles et accessoires',
         'Jouets'
-    ]
+    ];
 ?>
