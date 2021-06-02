@@ -1,6 +1,5 @@
 <?php 
-    $brand
-     = [
+    $brand = [
         'Royal Canin',
         'Biofood',
         'Rosewood',
