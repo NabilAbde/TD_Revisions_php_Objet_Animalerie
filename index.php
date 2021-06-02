@@ -30,6 +30,10 @@
     <?php include("view/vueProduct.php"); ?>
     </section>
 
+    <section>
+    <?php include("view/vueGramme.php"); ?>
+    </section>
+
     
 </body>
 </html>
