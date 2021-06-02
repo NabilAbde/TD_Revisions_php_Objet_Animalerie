@@ -12,6 +12,9 @@
     <title>Revision</title>
 </head>
 <body>
+<?php
+include('model/animal.php')
+?>
     <h1> Animalerie </h1>
 </body>
 </html>
