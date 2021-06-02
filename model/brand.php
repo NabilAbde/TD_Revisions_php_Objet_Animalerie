@@ -7,4 +7,3 @@
         'Wellness Core',
         'Acana'
     ];
-?>

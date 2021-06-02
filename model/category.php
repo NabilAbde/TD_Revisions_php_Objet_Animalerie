@@ -7,4 +7,3 @@
         'Gamelles et accessoires',
         'Jouets'
     ];
-?>
