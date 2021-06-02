@@ -1,3 +1,8 @@
+<?php
+    require('model/animal.php');
+    require('model/brand.php');
+    require('model/category.php');
+?>
 <!DOCTYPE html>
 <html lang="fr">
 <head>
