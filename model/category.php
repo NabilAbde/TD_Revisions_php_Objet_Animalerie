@@ -1,5 +1,5 @@
 <?php
-$category = [
+$Category = [
     'alimentation',
     'niches et couchage',
     'transport',

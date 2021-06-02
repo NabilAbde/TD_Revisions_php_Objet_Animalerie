@@ -1,6 +1,6 @@
 <?php
 require('animal.php');
-require('category.php'); 
+require('category.php');
 
 $Product = array (
     //Creation du tableau à plusieurs dimension des produits
@@ -44,7 +44,7 @@ $Product = array (
            'PriceHT' => 100,
            'Quantity' => 10000,
            'Category' => $Category[0],
-           'Animals' => $animals[7]),
+           'Animals' => $animals[6]),
 
     array ('Name' => 'Harnais', 
            'PriceHT' => 3,
@@ -56,7 +56,7 @@ $Product = array (
            'PriceHT' => 45,
            'Quantity' => 1 ,
            'Category' => $Category[3],
-           'Animals' => $animals[8]),  
+           'Animals' => $animals[6]),  
            
     array ('Name' => 'Bout de bois', 
            'PriceHT' => 15,
@@ -92,7 +92,7 @@ $Product = array (
           'PriceHT' => 100,
           'Quantity' => 1,
           'Category' => $Category[1],
-          'Animals' => $animals[10]),
+          'Animals' => $animals[4]),
 
    array ('Name' => 'Aquarium', 
           'PriceHT' => 80,
@@ -124,3 +124,4 @@ $Product = array (
           'Category' => $Category[2],
           'Animals' => $animals[1])
 );
+

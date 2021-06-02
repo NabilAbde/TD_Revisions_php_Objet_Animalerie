@@ -1,5 +1,5 @@
 <ul>
-    <?php foreach ($category as $categorie) : ?>
+    <?php foreach ($Category as $categorie) : ?>
     <li>
        <?php echo $categorie; ?>
     </li>
