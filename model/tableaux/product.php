@@ -23,5 +23,5 @@ $Product = [
        ['Name' => 'Os en plastique', 'PriceHT' => 8,'Quantity' => 10505,'Category' => $Category[5],'Animals' => $animals[0]],
        ['Name' => 'Graines', 'PriceHT' => 10,'Quantity' => 200,'Category' => $Category[0],'Animals' => $animals[3]],
        ['Name' => 'Niche', 'PriceHT' => 50,'Quantity' => 1145,'Category' => $Category[1],'Animals' => $animals[0]],
-       ['Name' => 'Cage de transport', 'PriceHT' => 30,'Quantity' => 136,'Category' => $Category[2],'Animals' => $animals[1])
+       ['Name' => 'Cage de transport', 'PriceHT' => 30,'Quantity' => 136,'Category' => $Category[2],'Animals' => $animals[1]]
 ];
