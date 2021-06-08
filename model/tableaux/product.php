@@ -1,6 +1,4 @@
 <?php
-require('animal.php');
-require('category.php');
 
 $Product = [
        //Creation du tableau à plusieurs dimension des produits

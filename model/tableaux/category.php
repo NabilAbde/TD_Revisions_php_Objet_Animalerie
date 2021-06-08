@@ -14,15 +14,15 @@
 // ];
 
 $Category = [
-    new category( 'alimentation', ' ', NULL ),
-    new category( 'niches et couchage', ' ', NULL ),
-    new category( 'transport', ' ', NULL ),
-    new category( 'hygiène et soin', ' ', NULL ),
-    new category( 'Gamelles et accessoires', ' ', NULL ),
-    new category( 'Jouets', ' ', NULL ),
-    new category( 'Cages et accessoires', ' ', NULL ),
-    new category( 'Entretiens de l’eau', ' ', NULL ),
-    new category( 'Décorations de l’aquarium', ' ', NULL ),
-    new category( 'Bassins', ' ', NULL ),
-    new category( 'Aquariums et meubles', ' ', NULL ),
+    $alimentation = new category( 'Alimentation', ' ', NULL ),
+    $nichesCouchage = new category( 'Niches et couchage', ' ', NULL ),
+    $transport = new category( 'Transport', ' ', NULL ),
+    $hygièneSoin = new category( 'Hygiène et soin', ' ', NULL ),
+    $gamellesAccessoires = new category( 'Gamelles et accessoires', ' ', NULL ),
+    $jouets = new category( 'Jouets', ' ', NULL ),
+    $cagesAccessoires = new category( 'Cages et accessoires', ' ', NULL ),
+    $entretiensEau= new category( 'Entretiens de l’eau', ' ', NULL ),
+    $decoAquarium = new category( 'Décorations de l’aquarium', ' ', NULL ),
+    $bassins = new category( 'Bassins', ' ', NULL ),
+    $aquariumMeubles = new category( 'Aquariums et meubles', ' ', NULL ),
 ];

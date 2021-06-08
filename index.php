@@ -1,10 +1,15 @@
-<?php require('model/category.php'); ?>
-<?php require('model/brand.php'); ?>
-<?php require('model/animal.php'); ?>
-<?php include('model/fonctionLuc.php'); ?>
-<?php include('model/prixAuGramme.php'); ?>
-<?php require('model/product.php'); ?>
-
+<?php
+//les class
+require('model/class/classeCategory.php');
+//les tableaux
+require('model/tableaux/category.php');
+// require('model/tableaux/brand.php');
+// require('model/tableaux/animal.php');
+// require('model/tableaux/product.php');
+//les function
+require('model/function/fonctionLuc.php');
+require('model/function/prixAuGramme.php');
+?>
 
 <!DOCTYPE html>
 <html lang="fr">
